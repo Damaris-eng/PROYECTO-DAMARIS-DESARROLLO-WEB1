@@ -1,0 +1,27 @@
+body
+ { background-color: lightblue;
+ } 
+
+ .dive{
+text-align: center;
+margin: 60 px;
+
+ }
+
+ .dive2{
+  text-align: center;
+  margin: 60px;
+ }
+
+ h1{
+  color: blue;
+ }
+
+ input{
+  margin: 7px;
+  padding: 7px;
+ }
+
+ img{
+  width: 300px;
+ }
